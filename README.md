@@ -1,1 +1,2 @@
 # pig-game
+Javascript project 
